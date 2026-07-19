@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Swastik%20Rout&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%203D%20%26%20Motion%20Enthusiast&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Swastik%20Rout&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Frontend%20Developer%20|%203D%20%26%20Motion%20Enthusiast&descAlignY=60&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Crafting+web+experiences+with+GSAP;Rigging+%26+animating+in+Blender;Fine-tuning+light+in+Lux-Reflect;Turning+ideas+into+interactive+builds"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Crafting+web+experiences+with+GSAP;Rigging+%26+animating+in+Blender;Fine-tuning+light+in+Lux-Reflect;Turning+ideas+into+interactive+builds"/>
 
 <br/><br/>
 
@@ -85,14 +85,6 @@ ask_me_about: [GSAP, HTML, JavaScript]
 
 <br/>
 
-## 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lucifer4rout&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
-<br/>
-
 ## 🌐 Find Me Elsewhere
 
 <div align="center">
@@ -109,6 +101,6 @@ ask_me_about: [GSAP, HTML, JavaScript]
 <img src="https://komarev.com/ghpvc/?username=lucifer4rout&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=100&section=footer"/>
 
 </div>

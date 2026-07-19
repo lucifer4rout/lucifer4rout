@@ -1,123 +1,140 @@
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6C63FF,100:00C9A7&amp;height=220&amp;section=header&amp;text=Swastik%20Rout&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Frontend%20Developer%20%7C%203D%20%26%20Motion%20Enthusiast&amp;descAlignY=60&amp;descSize=18"
-/>
+# 👋 Hi, I'm Swastik Rout
 
-<br><br>
+### Frontend Developer • 3D Artist • Blender Enthusiast
 
-<img
-src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Crafting+beautiful+web+experiences;Rigging+and+animating+in+Blender;Fine-tuning+lighting+in+Lux-Reflect;Turning+ideas+into+interactive+projects"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Crafting+beautiful+web+experiences;Building+interactive+projects;Blender+Rigging+%26+Animation;GSAP+Motion+Design;Currently+building+ReFlux+Addon"/>
 
-<br><br>
+<br>
 
 <a href="https://portfolio.swastikrout.workers.dev">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white">
+<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge">
 </a>
 
 <a href="mailto:swastikrout256@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
+<img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge">
 </a>
 
 <a href="https://linkedin.com/in/swastik-rout-1b45b03a1">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://discord.gg/u5AcQHxEsZ">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-</div>
+![](https://komarev.com/ghpvc/?username=lucifer4rout&style=for-the-badge&color=6C63FF)
 
 </div>
 
-<br/>
+---
 
-## ⚡ About Me
+# 🚀 About Me
 
 ```yaml
-name: Swastik Rout
-role: Frontend Developer
-location: India
-currently_building: Blender Car Rig
-collaborating_on: Reflux Addon
-seeking_help_with: Lighting Optimization — Lux-Reflect
-ask_me_about: [GSAP, HTML, JavaScript]
+Name: Swastik Rout
+
+Role: Frontend Developer
+
+Location: India 🇮🇳
+
+Currently Building:
+  - Blender Car Rig
+  - ReFlux Addon
+
+Learning:
+  - Advanced GSAP
+  - Blender Rigging
+  - UI/UX Design
+
+Ask Me About:
+  - HTML
+  - CSS
+  - JavaScript
+  - GSAP
+  - Blender
 ```
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🔭 What I'm doing
-- Building a fully rigged **Blender Car Rig**
-- Growing **[Reflux Addon](https://refluxaddons.pages.dev)** — open to collaborators
-- Chasing better realism in **Lux-Reflect** lighting
-- Shipping projects at **[my portfolio →](https://portfolio.swastikrout.workers.dev)**
+# 🛠 Tech Stack
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
 
-### 💡 How I work
-- Frontend-first, motion-obsessed — GSAP is my go-to
-- Comfortable moving between code and 3D tooling
-- Learning in public, building in the open
-- Always down to collaborate on something creative
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,electron,python,java,firebase,mongodb,mysql,blender,unity,arduino,git,vscode,github&theme=dark"/>
 
-</td>
-</tr>
-</table>
+</p>
 
-<br/>
+---
 
-## 🧰 Tech Stack
+# 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,java,python,react,electron,firebase,mongodb,mysql,unity,blender,ai,ps,arduino&theme=dark&perline=9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucifer4rout&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer4rout&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-<sub><b>Web</b> · HTML · CSS · JavaScript · TypeScript · Node.js &nbsp;|&nbsp; <b>Backend & Data</b> · MongoDB · MySQL · Firebase · Python · Pandas · scikit-learn · TensorFlow &nbsp;|&nbsp; <b>Creative</b> · Blender · Illustrator · Photoshop · Unity · Arduino</sub>
-</div>
+</p>
 
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lucifer4rout&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer4rout&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=lucifer4rout&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
-<div align="center">
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucifer4rout&theme=tokyo-night&hide_border=true"/>
-</div>
 
-<br/>
+</p>
 
-## 🌐 Find Me Elsewhere
+---
+
+# 🌟 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🚗 Blender Car Rig | Professional car rigging addon for Blender |
+| ⚡ ReFlux Addon | Blender render optimization toolkit |
+| 🌐 Portfolio | Personal portfolio with GSAP animations |
+| 📱 StatsMate | Gamified productivity desktop app |
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://portfolio.swastikrout.workers.dev">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/reflux_support26">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/c/refluxsupport.a11on">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://codepen.io/swastik-rout">
+<img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-<a href="https://codepen.io/swastik-rout"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
-<a href="https://instagram.com/reflux_support26"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/c/refluxsupport.a11on"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+### ⭐ Thanks for visiting my profile!
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lucifer4rout&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=100&section=footer"/>
+*"Building beautiful experiences with code and creativity."*
 
 </div>

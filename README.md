@@ -1,17 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Swastik%20Rout&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Frontend%20Developer%20|%203D%20%26%20Motion%20Enthusiast&descAlignY=60&descSize=18"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6C63FF,100:00C9A7&amp;height=220&amp;section=header&amp;text=Swastik%20Rout&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Frontend%20Developer%20%7C%203D%20%26%20Motion%20Enthusiast&amp;descAlignY=60&amp;descSize=18"
+/>
 
-<br/>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Crafting+web+experiences+with+GSAP;Rigging+%26+animating+in+Blender;Fine-tuning+light+in+Lux-Reflect;Turning+ideas+into+interactive+builds"/>
+<img
+src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Crafting+beautiful+web+experiences;Rigging+and+animating+in+Blender;Fine-tuning+lighting+in+Lux-Reflect;Turning+ideas+into+interactive+projects"
+/>
 
-<br/><br/>
+<br><br>
 
-<a href="https://portfolio.swastikrout.workers.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:swastikrout256@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/swastik-rout-1b45b03a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://discord.gg/u5AcQHxEsZ"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://portfolio.swastikrout.workers.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white">
+</a>
+
+<a href="mailto:swastikrout256@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/swastik-rout-1b45b03a1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
+</a>
+
+<a href="https://discord.gg/u5AcQHxEsZ">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white">
+</a>
+
+</div>
 
 </div>
 

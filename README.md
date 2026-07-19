@@ -119,7 +119,7 @@ Ask Me About:
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/c/refluxsupport.a11on">
+<a href="https://www.youtube.com/@ReFluxsupport.a11on">
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 

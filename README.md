@@ -1,12 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Swastik%20Rout&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%203D%20%26%20Motion%20Enthusiast&descAlignY=58&descSize=20"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Crafting+web+experiences+with+GSAP;Rigging+%26+animating+in+Blender;Fine-tuning+light+in+Lux-Reflect;Turning+ideas+into+interactive+builds"/>
-
-<br/><br/>
+# Hi, I'm Swastik Rout 👋
+### Frontend Developer · 3D & Motion Enthusiast · India
 
 <a href="https://portfolio.swastikrout.workers.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:swastikrout256@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -75,12 +70,10 @@ ask_me_about: [GSAP, HTML, JavaScript]
 <img src="https://github-readme-stats.vercel.app/api?username=lucifer4rout&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer4rout&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=lucifer4rout&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucifer4rout&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=lucifer4rout&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
@@ -107,8 +100,4 @@ ask_me_about: [GSAP, HTML, JavaScript]
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=lucifer4rout&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer"/>
-
 </div>
